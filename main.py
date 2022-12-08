@@ -4,7 +4,7 @@ from diaries.Alfarcats_diary import Alfarcats_diary
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
     DiarySample(),
-    Alfarcats_diary(),
+    Alfarcats_diary()
 ] 
 
 for d in diaries:
