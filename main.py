@@ -1,4 +1,5 @@
 from diaries.DiarySample import DiarySample
+from diaries.NishidaDiary import NishidaDiary
 from diaries.Alfarcats_diary import Alfarcats_diary
 from diaries.DaimonjiDiary import DaimonjiDiary
 from diaries.SakaiDiary import SakaiDiary
@@ -8,6 +9,7 @@ from diaries.OnodaDiary import OnodaDiary
 # ↓のリストには、メンバーの各日記が格納されます。
 diaries = [
     DiarySample(),
+    NishidaDiary(),
     Alfarcats_diary()
     DaimonjiDiary(),
     SakaiDiary(),
