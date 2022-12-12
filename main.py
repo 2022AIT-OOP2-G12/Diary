@@ -10,7 +10,7 @@ from diaries.OnodaDiary import OnodaDiary
 diaries = [
     DiarySample(),
     NishidaDiary(),
-    Alfarcats_diary()
+    Alfarcats_diary(),
     DaimonjiDiary(),
     SakaiDiary(),
     Nakashima150Diary(),
